@@ -1,15 +1,15 @@
 # CNN_Cancer_Detection_Kaggle_MiniProject
 Week 3: CNN Cancer Detection Kaggle Mini-Project
-![Kaggle Results](https://github.com/stevensmiley1989/CNN_Cancer_Detection_Kaggle_MiniProject/blob/main/Screenshot%20from%202024-10-05%2018-50-45.png)
-![0](https://github.com/stevensmiley1989/CNN_Cancer_Detection_Kaggle_MiniProject/blob/main/2024-10-05_07%3A17%3A33p856882_EPOCH_2__SUBSET_GRAD_CAM.jpg)
-![0](https://github.com/stevensmiley1989/CNN_Cancer_Detection_Kaggle_MiniProject/blob/main/2024-10-05_07%3A17%3A33p856882_EPOCH_2__SUBSET_GRAD_CAM_1.jpg)
+
 ## 1 Jupyter Notebook<a class="anchor" id="1"></a>
 Links below to visualize the notebooks rendered.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Week3_Assignment.ipynb](https://nbviewer.org/github/stevensmiley1989/CNN_Cancer_Detection_Kaggle_MiniProject/blob/main/Week3_Assignment.ipynb) | Jupyter Notebook |
-
+![Kaggle Results](https://github.com/stevensmiley1989/CNN_Cancer_Detection_Kaggle_MiniProject/blob/main/Screenshot%20from%202024-10-05%2018-50-45.png)
+![0](https://github.com/stevensmiley1989/CNN_Cancer_Detection_Kaggle_MiniProject/blob/main/2024-10-05_07%3A17%3A33p856882_EPOCH_2__SUBSET_GRAD_CAM.jpg)
+![0](https://github.com/stevensmiley1989/CNN_Cancer_Detection_Kaggle_MiniProject/blob/main/2024-10-05_07%3A17%3A33p856882_EPOCH_2__SUBSET_GRAD_CAM_1.jpg)
 
 ## 2 Data Inputs <a class="anchor" id="2"></a>
 **Data Source**: https://www.kaggle.com/competitions/histopathologic-cancer-detection/
